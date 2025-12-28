@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.meintagebuch",
+    "sha256_cert_fingerprints": [
+      "84:EB:2E:05:FD:C6:87:1E:A2:49:34:F2:52:64:77:D7:9E:EC:C5:65:32:7B:E0:49:B1:89:D9:83:46:0F:3E:2F
+"
+    ]
+  }
+}]
